@@ -1,0 +1,23 @@
+@media screen and (max-width:479px){
+    .wrapper{
+        width: 200px;
+    }
+    .header{
+        width: 200px;
+    }
+    .left{
+        width: 200px;
+        float: none;
+    }
+    .right{
+        width: 200px;
+        float: none;
+    }
+    .right-in{
+        margin: 20px 30px;
+    }
+    .footer{
+        width: 200px;
+        float: none;
+    }
+}
